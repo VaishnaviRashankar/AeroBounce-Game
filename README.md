@@ -1,6 +1,10 @@
 ## Getting Started
+Java-Based Arcade Game Development
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+
+Implemented dynamic obstacle generation, scoring mechanics, and smooth game physics for an engaging player experience.
+Focused on optimizing game performance and ensuring user-friendly controls.
+Enhanced creativity and problem-solving skills through game design and implementation.
 
 ## Folder Structure
 
